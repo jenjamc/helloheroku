@@ -14,7 +14,7 @@
     <repositories>
         <repository>
             <id>codelds</id>
-            <url>https://code.lds.org/nexus/content/groups/main-repo</url>
+            <url>https://maven-central.storage-download.googleapis.com/repos/central/</url>
         </repository>
     </repositories>
 
